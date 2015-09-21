@@ -1,0 +1,2 @@
+var citycode = 223;
+console.log(citycode);
